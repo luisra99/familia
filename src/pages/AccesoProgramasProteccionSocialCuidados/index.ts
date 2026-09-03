@@ -1,0 +1,3 @@
+import AccesoProgramasProteccionSocialCuidados from "./AccesoProgramasProteccionSocialCuidados";
+
+export default AccesoProgramasProteccionSocialCuidados;

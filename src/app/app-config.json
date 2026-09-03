@@ -1,0 +1,21 @@
+{
+  "title": "PROSOCIAL",
+  "email": "soporte@xetid.cu",
+  "selfSignUp": false,
+  "localSignIn": false,
+  "identitys": [
+    {
+      "is": "piia",
+      "name": "Proveedor de identidad de Finanzas Ambientales",
+      "img": ""
+    }
+  ],
+  "profileConfig": [
+    { "key": "PI", "label": "Datos del proveedor de identidad" }
+  ],
+  "crashTitle": "Ups... Lo sentimos, algo fue mal con la aplicación. Usted puede:",
+  "crashMessage": "contactar con soporte via correo - ",
+  "crashReset": "Reiniciar la aplicación",
+  "loginRedirectPath": "/",
+  "logOutRedirectPath": "/"
+}

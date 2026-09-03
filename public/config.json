@@ -1,0 +1,5 @@
+{
+  "ENV_SERVER_URL": "http://localhost:3000",
+  "ENV_URL": "/",
+  "ENV_MODE": "dev"
+}
